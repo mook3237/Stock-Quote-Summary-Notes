@@ -1,0 +1,8 @@
+mss
+pytesseract
+Pillow
+pandas
+requests
+beautifulsoup4
+lxml
+FinanceDataReader
